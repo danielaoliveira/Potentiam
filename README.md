@@ -1,4 +1,4 @@
-#Potentiam
+# Potentiam
 
 This repository contains:
 * Potentiam, our dataset of pieces of online texts manually labeled with influence cues.
