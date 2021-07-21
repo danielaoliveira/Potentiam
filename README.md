@@ -1,5 +1,3 @@
-# Potentiam
-
 This repository contains:
 * Potentiam, our dataset of pieces of online texts manually labeled with influence cues.
 * The coding manual used in the qualitative analysis.
