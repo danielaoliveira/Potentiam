@@ -12,7 +12,8 @@ For the Hyperpartisan News and Mainstream News Groups, we used a public dataset 
 
 Our repository does not contain sensitive material, nor PII. Therefore, it is publicly available to the research community. **Upon use, please cite as follows**:
 
-Dataset: 
+**Dataset**: 
+
 *@misc{potentiam2021_dataset, 
 title={Potentiam: A Labeled Dataset of Influence Cues in Online Text}, 
 author={Silva, Mirela, and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela}, 
@@ -20,7 +21,8 @@ year={2021}}*
 
 *M. Silva, L. Giovanini, L. Czech, J. Fernandes, and D. Oliveira, "Potentiam: A Labeled Dataset of Influence Cues in Online Text," 2021. Available at: https://github.com/danielaoliveira/Potentiam*
 
-Lumen: 
+**Lumen**: 
+
 *@article{shi2021_lumen, 
 title={Lumen: A Machine Learning Framework to Expose Influence Cues in Text}, 
 author={Shi, Hanyu, and Silva, Mirela, and Capecci, Daniel, and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela}, 
