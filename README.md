@@ -10,7 +10,7 @@ For the Deceptive Texts Group, we mixed 492 Facebook ads created by the Russian 
 
 For the Hyperpartisan News and Mainstream News Groups, we used a public dataset composed of 2.7M news articles and essays from 27 American publications dated from 2013 to early 2020. We first selected articles ranging from 50-200 words and then classified them as left, right, or center news according to the AllSides Bias Rating. For inclusion in the Hyperpartisan News Group, we randomly selected 506 right news and 497 left news; the former were dated from 2016 to 2017 and came from two publications sources (Breitbart and National Review) while the latter were dated from 2016 to 2019 and came from six publications (Buzzfeed News, Mashable, New Yorker, People, VICE, and Vox). To compose the Mainstream News Group, we randomly selected 974 center news from all seven publications (Business Insider, CNBC, NPR, Reuters, TechCrunch, The Hill, and Wired) dated from 2014 to 2019.
 
-Our repository does not contain sensitive material, nor PII. Therefore, it is publicly available to the research community. Upon use, please cite as follows:
+Our repository does not contain sensitive material, nor PII. Therefore, it is publicly available to the research community. **Upon use, please cite as follows**:
 
 Dataset: 
 @misc{potentiam2021_dataset, 
