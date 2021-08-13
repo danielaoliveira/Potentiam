@@ -3,7 +3,7 @@
 This repository contains:
 * Potentiam, our dataset of pieces of online texts manually labeled with influence cues.
 * The coding manual used in the qualitative analysis.
-* Our paper contains details about the dataset and our coding methodology, as well as a statistical analysis of the dataset and its use to expose influence cues in text using machine learning. This paper can be also found at <<*arxiv webpage*>>. 
+* Our paper contains details about the dataset and our coding methodology, as well as a statistical analysis of the dataset and its use to expose influence cues in text using machine learning. This paper can be also found at: https://arxiv.org/abs/2107.10655 
 
 For the Deceptive Texts Group, we mixed 492 Facebook ads created by the Russian Internet Research Agency (IRA), 130 known fake news articles, and 460 phishing emails. 
 * Facebook IRA Ads. We leveraged a dataset of 3,517 Facebook ads created by the Russian IRA and made publicly available to the U.S. House of Representatives Permanent Select Committee on Intelligence  by Facebook after internal audits. These ads were a small representative sample of over 80K organic content identified by the Committee and are estimated to have been exposed to over 126M Americans between June 2015 and August 2017. After discarding ads that did not have text entry, the dataset was decreased to 3,286 ads, which were mostly (52.8%) posted in 2016 (U.S. election year). We randomly selected 492 for inclusion. 
@@ -27,12 +27,11 @@ year={2021}}*
 
 **Lumen**: 
 
-*@article{shi2021_lumen, 
-title={Lumen: A Machine Learning Framework to Expose Influence Cues in Text}, 
-author={Shi, Hanyu, and Silva, Mirela, and Capecci, Daniel, and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela}, 
-year={2021}
-url = {https://arxiv.org/XXX},
-archivePrefix = {arXiv},
-eprint = {XXXX.XXXXX}}*
+*article{shi2021lumen,
+  title={Lumen: A Machine Learning Framework to Expose Influence Cues in Text},
+  author={Shi, Hanyu and Silva, Mirela and Capecci, Daniel and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela},
+  journal={arXiv preprint arXiv:2107.10655},
+  year={2021}
+  url = {https://arxiv.org/abs/2107.10655}}*
 
-*S. Hanyu, M. Silva, D. Capecci, L. Giovanini, L. Czech, J. Fernandes, and D. Oliveira, "Lumen: A Machine Learning Framework to Expose Influence Cues in Text," 2021. arXiv preprint arXiv:XXXX.XXXXX.*
+*S. Hanyu, M. Silva, D. Capecci, L. Giovanini, L. Czech, J. Fernandes, and D. Oliveira, "Lumen: A Machine Learning Framework to Expose Influence Cues in Text," 2021. arXiv preprint arXiv:2107.10655.*
