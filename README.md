@@ -27,7 +27,7 @@ year={2021}}*
 
 **Lumen**: 
 
-*article{shi2021lumen,
+*@article{shi2021lumen,
   title={Lumen: A Machine Learning Framework to Expose Influence Cues in Text},
   author={Shi, Hanyu and Silva, Mirela and Capecci, Daniel and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela},
   journal={arXiv preprint arXiv:2107.10655},
