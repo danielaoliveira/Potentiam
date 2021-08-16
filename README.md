@@ -20,7 +20,6 @@ PI: Dr. Daniela Oliveira, Department of Electrical and Computer Engineering, Uni
 
 co-PI: Dr. Juliana Fernandes, Department of Advertising, University of Florida (juliana@jou.ufl.edu)
 
-Researchers: 
 Dr. Luiz Giovanini, Department of Electrical and Computer Engineering, University of Florida
 
 Mirela Silva, PhD Student, Department of Electrical and Computer Engineering, University of Florida
