@@ -14,7 +14,7 @@ For the Hyperpartisan News and Mainstream News Groups, we used a public dataset 
 
 The development of this dataset was supported by the National Science Foundation under Grant No. 2028734 and by the University of Florida Seed Fund award P0175721. This material is based upon work supported by (while serving at) the National Science Foundation.
 
-Team: 
+## Team:
 
 PI: Dr. Daniela Oliveira, Department of Electrical and Computer Engineering, University of Florida (daniela@ece.ufl.edu)
 
@@ -33,22 +33,26 @@ Lauren Czech, PhD Student, Department of Electrical and Computer Engineering, Un
 
 Our repository does not contain sensitive material, nor PII. Therefore, it is publicly available to the research community. **Upon use, please cite as follows**:
 
-**Dataset**: 
+## Dataset
 
-*@misc{potentiam2021_dataset, 
+```
+@misc{potentiam2021_dataset, 
 title={Potentiam: A Labeled Dataset of Influence Cues in Online Text}, 
 author={Silva, Mirela, and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela}, 
-year={2021}}*
+year={2021}}
+```
 
 *M. Silva, L. Giovanini, L. Czech, J. Fernandes, and D. Oliveira, "Potentiam: A Labeled Dataset of Influence Cues in Online Text," 2021. Available at: https://github.com/danielaoliveira/Potentiam*
 
-**Lumen**: 
+## Lumen
 
-*@article{shi2021lumen,
+```
+@article{shi2021lumen,
   title={Lumen: A Machine Learning Framework to Expose Influence Cues in Text},
   author={Shi, Hanyu and Silva, Mirela and Capecci, Daniel and Giovanini, Luiz and Czech, Lauren and Fernandes, Juliana and Oliveira, Daniela},
   journal={arXiv preprint arXiv:2107.10655},
   year={2021}
-  url = {https://arxiv.org/abs/2107.10655}}*
+  url = {https://arxiv.org/abs/2107.10655}}
+```
 
 *S. Hanyu, M. Silva, D. Capecci, L. Giovanini, L. Czech, J. Fernandes, and D. Oliveira, "Lumen: A Machine Learning Framework to Expose Influence Cues in Text," 2021. arXiv preprint arXiv:2107.10655.*
